@@ -1,2 +1,2 @@
 # Memory
-Memory - student project - HTML/CSS/JS
+Memory - student project - HTML/SCSS/JS
